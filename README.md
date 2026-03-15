@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vickeydhole" target="blank"><img src="https://img.shields.io/twitter/follow/vickeydhole?logo=twitter&style=for-the-badge" alt="vickeydhole" /></a> </p>
 
-- 🌱 I’m currently pursuing my diploma in **Information technology.**
+- 🌱 Recently pursued my Degree in Btech (**Information technology.**)
 
 - 📫 How to reach me **vickeydhole@gmail.com**
 
